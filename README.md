@@ -8,6 +8,8 @@
 An internal RAG-powered chatbot that lets customer service agents instantly query FineServe's knowledge base and get accurate, source-backed answers.
 
 ---
+## Live Demo
+🔗 **[Live Demo](https://fineservesupport.streamlit.app/)**
 
 ## Problem Statement
 
